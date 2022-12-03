@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1znFGGhNTQMWz3NG4cn0YebsjlsdPr9BN">
 </div>
 
-# Training Cost Calculator (TCC)
+# Training Cost Calculator (TCC) this is a test
 
 This repository intends to provide the world's first open-source toolbox for predicting your machine learning model's training time. It includes training time data generation and TCC models. Our current prediction focuses on models built by Tensorflow.
 
